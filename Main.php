@@ -11,6 +11,7 @@
     }
 
 
+    // Class definition
     class Calculate {
 
         private int $n1;
